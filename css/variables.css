@@ -1,0 +1,16 @@
+:root{
+    --white-color : white;
+    --purple-color : #7448AE;
+    --cyan-color: #37A7FF;
+    --pink-color: #FF2D9E;
+    --gray-color: gray;
+    --border: solid 1px;
+
+
+    --smaller-text : 12px;
+    --small-text : 16px;
+    --normal-text : 24px;
+    --medium-text : 32px;
+    --big-text : 40px;
+    --bigger-text : 48px; 
+}
